@@ -1,0 +1,54 @@
+*{
+    /* background-color: #003147; */
+}
+
+h1{
+    /* background-color: blueviolet; */
+    text-align: center;
+    color: rgb(17, 19, 20);
+}
+
+h2{
+    /* background-color: darksalmon; */
+    text-align: center;
+    color: rgb(39, 47, 47);
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 7px solid rgba(15, 12, 12, 0.8);
+    border-radius: 20%;
+    margin: 2.5rem;
+    text-align: center;
+    box-shadow: 2px 2px 5px rgb(123, 134, 58);
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+ .red{
+    background-color: rgb(237, 69, 69);
+}
+
+ .orange{
+    background-color: rgb(230, 164, 42);
+}
+
+ .green{
+    background-color: rgb(104, 248, 104);
+}
+
+ .blue{
+    background-color: rgb(156, 156, 255);
+}
+
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: magenta;
+}
+
